@@ -1,0 +1,67 @@
+[
+  {
+    "id": "q1",
+    "arabic": "مِن رَّبِّهِمْ",
+    "audioPath": "/audio/tajweed/idgham-ra-sample.mp3",
+    "choices": [
+      { "slug": "idgham", "label": "Idgham" },
+      { "slug": "ikhfa", "label": "Ikhfa" },
+      { "slug": "iqlab", "label": "Iqlab" },
+      { "slug": "izhar", "label": "Izhar" }
+    ],
+    "correctSlug": "idgham",
+    "hint": "Noon sakinah meets ra — merging without ghunnah."
+  },
+  {
+    "id": "q2",
+    "arabic": "مِن كُتُبٍ",
+    "audioPath": "/audio/tajweed/ikhfa-kaf-sample.mp3",
+    "choices": [
+      { "slug": "idgham", "label": "Idgham" },
+      { "slug": "ikhfa", "label": "Ikhfa" },
+      { "slug": "qalqalah", "label": "Qalqalah" },
+      { "slug": "madd", "label": "Madd" }
+    ],
+    "correctSlug": "ikhfa",
+    "hint": "Hidden noon before kaf — nasal ghunnah."
+  },
+  {
+    "id": "q3",
+    "arabic": "قَدْ أَفْلَحَ",
+    "audioPath": "/audio/tajweed/qalqalah-sample.mp3",
+    "choices": [
+      { "slug": "qalqalah", "label": "Qalqalah" },
+      { "slug": "ghunnah", "label": "Ghunnah" },
+      { "slug": "madd", "label": "Madd" },
+      { "slug": "tafkheem-tarqeeq", "label": "Tafkhim / Tarqiq" }
+    ],
+    "correctSlug": "qalqalah",
+    "hint": "Sakin letter dal — echoing bounce."
+  },
+  {
+    "id": "q4",
+    "arabic": "السَّمَاءُ",
+    "audioPath": "/audio/tajweed/madd-sample.mp3",
+    "choices": [
+      { "slug": "madd", "label": "Madd (elongation)" },
+      { "slug": "idgham", "label": "Idgham" },
+      { "slug": "iqlab", "label": "Iqlab" },
+      { "slug": "ikhfa", "label": "Ikhfa" }
+    ],
+    "correctSlug": "madd",
+    "hint": "Alif after letter of madd — natural lengthening."
+  },
+  {
+    "id": "q5",
+    "arabic": "مِن بَعْدِ",
+    "audioPath": "/audio/tajweed/iqlab-sample.mp3",
+    "choices": [
+      { "slug": "iqlab", "label": "Iqlab" },
+      { "slug": "idgham", "label": "Idgham" },
+      { "slug": "izhar", "label": "Izhar" },
+      { "slug": "ikhfa", "label": "Ikhfa" }
+    ],
+    "correctSlug": "iqlab",
+    "hint": "Noon becomes hidden meem before ba."
+  }
+]

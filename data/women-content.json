@@ -1,0 +1,51 @@
+{
+  "intro": "These profiles are brief reminders of courage, scholarship, and trust in Allah — not exhaustive biographies. For fiqh, follow qualified teachers in your school (madhhab) and local scholars.",
+  "figures": [
+    {
+      "id": "khadijah",
+      "name": "Khadijah bint Khuwaylid",
+      "arabic": "خَدِيجَةُ بِنْتُ خُوَيْلِدٍ رَضِيَ اللَّهُ عَنْهَا",
+      "summary": "The first to believe; supported the Message with unwavering stability, wealth used in service of truth, and deep emotional refuge for the Prophet ﷺ in the hardest first years.",
+      "lesson": "Strength can look like quiet constancy: believing early, carrying cost, and staying kind."
+    },
+    {
+      "id": "aisha",
+      "name": "Aisha bint Abi Bakr",
+      "arabic": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهَا",
+      "summary": "A scholar of the Ummah: fiqh, hadith, and seerah memory carrier; questions refined understanding; leadership of knowledge with adab.",
+      "lesson": "Seeking knowledge is worship when paired with humility and careful transmission."
+    },
+    {
+      "id": "umm-salamah",
+      "name": "Umm Salamah Hind bint Abi Umayyah",
+      "arabic": "أُمُّ سَلَمَةَ هِنْدُ بِنْتُ أَبِي أُمَيَّةَ رَضِيَ اللَّهُ عَنْهَا",
+      "summary": "Hijrah trials, patience under separation and loss, and counsel remembered in seerah — a voice of measured wisdom in community decisions.",
+      "lesson": "Sabr is not silence only; it can be strategic trust while wounds still ache."
+    },
+    {
+      "id": "asma",
+      "name": "Asma bint Abi Bakr",
+      "arabic": "أَسْمَاءُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهَا",
+      "summary": "Known for resourcefulness and courage in hardship; the 'Dhat an-Nitaqayn' story reflects loyalty and creative service in difficulty.",
+      "lesson": "Creative effort in obedience: using what you have to protect others."
+    }
+  ],
+  "fiqhNotes": [
+    {
+      "title": "Prayer, hayd, and nifas",
+      "body": "Menstruation (hayd) and post-natal bleeding (nifas) pause salah and fasting as defined by classical fiqh; make up missed prayers differs from missed fasts of Ramadan — learn the details from a qualified teacher."
+    },
+    {
+      "title": "Dress and modesty",
+      "body": "Aurah rules vary by context (prayer, Hajj zones, etc.). Take rulings from trustworthy scholarship rather than general articles alone."
+    },
+    {
+      "title": "Mosque attendance",
+      "body": "Scholars differ on emphasis for women praying at home vs mosque; adab in either case includes not crowding harm, avoiding perfume for prayer in public rows where discouraged, and following local guidance."
+    },
+    {
+      "title": "Seeking knowledge",
+      "body": "There is ijazah and adab in transmission — prioritize teachers who link fiqh to mercy and community responsibility."
+    }
+  ]
+}

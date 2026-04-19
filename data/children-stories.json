@@ -1,0 +1,35 @@
+[
+  {
+    "id": "nuh-boat",
+    "title": "Nuh and the boat that trusted Allah",
+    "readingLevel": "6–9",
+    "body": "Allah asked Nuh (peace be upon him) to build something big — a boat — even when people laughed. Storms came, but those who trusted Allah were saved. The lesson is not the wood; it is obeying Allah when it is hard, and staying patient when people do not understand.",
+    "illustrationHint": "A simple ark silhouette with a small heart above it (trust).",
+    "quiz": [
+      { "q": "What did Nuh build by Allah's command?", "choices": ["A palace", "A boat", "A tower"], "correctIndex": 1 },
+      { "q": "What is the heart-lesson of the story?", "choices": ["Win every argument", "Trust and obey Allah", "Hide from rain"], "correctIndex": 1 }
+    ]
+  },
+  {
+    "id": "yusuf-forgive",
+    "title": "Yusuf and the door to forgiveness",
+    "readingLevel": "7–10",
+    "body": "Yusuf (peace be upon him) faced jealousy and separation, but he kept goodness in his heart. When truth won, he chose mercy for those who hurt him. Mercy does not pretend pain never happened — it asks Allah for a heart strong enough to heal.",
+    "illustrationHint": "Two hands: one open (giving), one gentle (patience).",
+    "quiz": [
+      { "q": "At the end, Yusuf chose:", "choices": ["Revenge only", "Mercy and family repair", "Running away"], "correctIndex": 1 },
+      { "q": "Mercy means:", "choices": ["Never feeling hurt", "Asking Allah to soften your heart", "Ignoring mistakes"], "correctIndex": 1 }
+    ]
+  },
+  {
+    "id": "maryam-sincere",
+    "title": "Maryam and sincere focus",
+    "readingLevel": "6–9",
+    "body": "Maryam (peace be upon her) devoted time to worship with sincerity. Allah provided for her in surprising ways — rizq can look different than we imagine. Sincerity means doing the right thing even when nobody claps.",
+    "illustrationHint": "A quiet corner with a small lamp (noor).",
+    "quiz": [
+      { "q": "Maryam is remembered for:", "choices": ["Boasting", "Sincere worship", "Sleeping late"], "correctIndex": 1 },
+      { "q": "Sincerity (ikhlas) is mainly for:", "choices": ["People's likes", "Allah", "Competition"], "correctIndex": 1 }
+    ]
+  }
+]

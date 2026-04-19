@@ -1,0 +1,122 @@
+[
+  {
+    "id": "wake-1",
+    "category": "waking",
+    "title": "Upon waking",
+    "timing": "When you wake at night or morning, before rising fully.",
+    "context": "Affirms praise of Allah who gives life after sleep.",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur",
+    "translation": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection."
+  },
+  {
+    "id": "wake-2",
+    "category": "waking",
+    "title": "Morning / evening remembrance",
+    "timing": "After Fajr and after Maghrib (per common practice collections).",
+    "context": "Short formula of praise, tawhid, and magnification.",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+    "transliteration": "Subhan Allah wal hamdu lillah wa la ilaha illa Allah wallahu akbar",
+    "translation": "Glory be to Allah, praise be to Allah, there is no god but Allah, and Allah is Greatest."
+  },
+  {
+    "id": "eat-1",
+    "category": "eating",
+    "title": "Before eating",
+    "timing": "Before any food or drink, when beginning.",
+    "context": "Names Allah and seeks blessing; if forgotten, say it when remembered.",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillah",
+    "translation": "In the name of Allah."
+  },
+  {
+    "id": "eat-2",
+    "category": "eating",
+    "title": "If one forgets and remembers mid-meal",
+    "timing": "Upon remembering.",
+    "context": "Continues the meal with blessing.",
+    "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+    "transliteration": "Bismillahi awwalahu wa akhirahu",
+    "translation": "In the name of Allah at its beginning and its end."
+  },
+  {
+    "id": "eat-3",
+    "category": "eating",
+    "title": "After eating",
+    "timing": "When finished.",
+    "context": "Thanks Allah who fed and gave drink.",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+    "transliteration": "Alhamdu lillahil-ladhi at'amana wa saqana wa ja'alana muslimin",
+    "translation": "Praise be to Allah who fed us, gave us drink, and made us Muslims."
+  },
+  {
+    "id": "travel-1",
+    "category": "travel",
+    "title": "Mounting a vehicle / setting out",
+    "timing": "When beginning travel.",
+    "context": "Seeking ease and seeking refuge from hardship and evil people.",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "transliteration": "Subhanal-ladhi sakhkhara lana hadha wa ma kunna lahu muqrinin wa inna ila rabbina lamunqalibun",
+    "translation": "Glory to Him who subjected this to us; we could not have done it ourselves, and to our Lord we shall return."
+  },
+  {
+    "id": "travel-2",
+    "category": "travel",
+    "title": "General travel supplication",
+    "timing": "During journey.",
+    "context": "Asking righteousness and provision of good.",
+    "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَٰذَا الْبِرَّ وَالتَّقْوَىٰ وَمِنَ الْعَمَلِ مَا تَرْضَىٰ",
+    "transliteration": "Allahumma inna nas'aluka fi safarina hadha al-birra wat-taqwa wa minal-'amali ma tardha",
+    "translation": "O Allah, we ask You on this journey for righteousness, piety, and deeds You are pleased with."
+  },
+  {
+    "id": "distress-1",
+    "category": "distress",
+    "title": "The supplication of Yunus (as)",
+    "timing": "In hardship, anxiety, or feeling trapped by sin.",
+    "context": "Repeated for sincerity and hope in Allah's mercy.",
+    "arabic": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "La ilaha illa anta subhanaka inni kuntu minaz-zalimin",
+    "translation": "There is no god but You, glory be to You; indeed I was among the wrongdoers."
+  },
+  {
+    "id": "distress-2",
+    "category": "distress",
+    "title": "Ease after difficulty",
+    "timing": "When overwhelmed.",
+    "context": "Affirms Allah's wisdom in alternation of states.",
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "transliteration": "Fa inna ma'al 'usri yusra",
+    "translation": "Indeed, with hardship comes ease (Qur'an 94:6 — often recited with context)."
+  },
+  {
+    "id": "tawbah-1",
+    "category": "tawbah",
+    "title": "Seeking forgiveness (Sayyid al-Istighfar)",
+    "timing": "Morning and evening; after sin.",
+    "context": "Comprehensive admission of lordship, slavery, covenant, and need for forgiveness.",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma anta rabbi la ilaha illa anta… (full hadith wording)",
+    "translation": "O Allah, You are my Lord, none has the right to be worshipped except You… forgive me, for none forgives sins except You."
+  },
+  {
+    "id": "tawbah-2",
+    "category": "tawbah",
+    "title": "Astaghfirullah",
+    "timing": "Often; especially after bad deeds or heedlessness.",
+    "context": "Simple, frequent turning back to Allah.",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "transliteration": "Astaghfirullah",
+    "translation": "I seek Allah's forgiveness."
+  },
+  {
+    "id": "istikharah-1",
+    "category": "istikharah",
+    "title": "Salat al-Istikharah (summary)",
+    "timing": "After praying two rak'ah of non-obligatory prayer, when facing a permissible choice.",
+    "context": "One asks Allah to choose good in the matter; consult knowledge and counsel too.",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ …",
+    "transliteration": "Allahumma inni astakhiruka bi'ilmika wa astaqdiruka bi qudratika… (complete wording in hadith collections)",
+    "translation": "O Allah, I seek the good from You by Your knowledge, and ability by Your power, and I ask You of Your immense favor… then name the matter."
+  }
+]

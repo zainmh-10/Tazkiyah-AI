@@ -1,0 +1,74 @@
+[
+  {
+    "id": "birth",
+    "yearApprox": 570,
+    "label": "Birth in Makkah",
+    "summary": "Born into Banu Hashim; father Abdullah had passed before birth; mother Aminah; nurtured by Halimah then mother and grandfather."
+  },
+  {
+    "id": "hira",
+    "yearApprox": 610,
+    "label": "First revelation",
+    "summary": "Cave of Hira — \"Iqra\" — beginning of prophethood; Khadijah's support and Waraqah's affirmation."
+  },
+  {
+    "id": "public",
+    "yearApprox": 613,
+    "label": "Open preaching",
+    "summary": "Islam proclaimed openly; trials of early Muslims; boycott and patience of the community."
+  },
+  {
+    "id": "isra",
+    "yearApprox": 621,
+    "label": "Isra and Mi'raj",
+    "summary": "Night journey and ascension; salah enjoined as a gift and anchor for the believers."
+  },
+  {
+    "id": "hijrah",
+    "yearApprox": 622,
+    "label": "Hijrah to Madinah",
+    "summary": "Migration marks the Islamic calendar; brotherhood between Muhajirin and Ansar; Masjid an-Nabawi established."
+  },
+  {
+    "id": "madinah",
+    "yearApprox": 622,
+    "label": "Madinah society",
+    "summary": "Constitution of coexistence; strengthening of salah, zakat, and community ethics; facing hypocrisy with wisdom."
+  },
+  {
+    "id": "badr",
+    "yearApprox": 624,
+    "label": "Badr",
+    "summary": "Turning point of resolve; reliance on Allah alongside preparation; mercy and ransoming taught even in conflict."
+  },
+  {
+    "id": "uhud",
+    "yearApprox": 625,
+    "label": "Uhud",
+    "summary": "Discipline and obedience under pressure; the Prophet's steadfastness and care for the wounded."
+  },
+  {
+    "id": "khandaq",
+    "yearApprox": 627,
+    "label": "Khandaq (Trench)",
+    "summary": "Unity and digging the trench; calm in siege; surah al-Ahzab context of protection and truth."
+  },
+  {
+    "id": "hudaybiyah",
+    "yearApprox": 628,
+    "label": "Treaty of Hudaybiyah",
+    "summary": "Strategic patience; trust in Allah's plan; doors opened for wider da'wah and eventual access to Makkah."
+  },
+  {
+    "id": "fath",
+    "yearApprox": 630,
+    "label": "Conquest of Makkah",
+    "summary": "Mercy on a day of victory; cleansing the Ka'bah; forgiveness offered where bitterness could have ruled."
+  },
+  {
+    "id": "farewell",
+    "yearApprox": 632,
+    "label": "Farewell Hajj & passing",
+    "summary": "Comprehensive legacy sermon; completion of the message; illness and return to Allah with community united in salah."
+  }
+]

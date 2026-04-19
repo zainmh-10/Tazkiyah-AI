@@ -1,0 +1,10 @@
+[
+  { "key": "ramadan-1", "hijriMonth": 9, "hijriDay": 1, "title": "First day of Ramadan", "note": "Begin fasting with intention; seek Qur'an and night prayer." },
+  { "key": "laylat-qadr", "hijriMonth": 9, "hijriDay": null, "special": "lastTenOddNights", "title": "Laylat al-Qadr (seek in last ten nights)", "note": "Odd nights of last ten — especially 27th for many communities (follow your scholarship)." },
+  { "key": "eid-fitr", "hijriMonth": 10, "hijriDay": 1, "title": "Eid al-Fitr", "note": "Takbir, charity (Zakat al-Fitr), prayer, and joy with family." },
+  { "key": "arafa", "hijriMonth": 12, "hijriDay": 9, "title": "Day of Arafah", "note": "Fasting (for non-pilgrims), du'a, and remembrance." },
+  { "key": "eid-adha", "hijriMonth": 12, "hijriDay": 10, "title": "Eid al-Adha", "note": "Takbir days, sacrifice (where applicable), prayer, and sharing." },
+  { "key": "muharram-1", "hijriMonth": 1, "hijriDay": 1, "title": "Islamic New Year", "note": "Not a religious 'Eid' in worship — a time for reflection and hijrah themes." },
+  { "key": "ashura", "hijriMonth": 1, "hijriDay": 10, "title": "Ashura (10 Muharram)", "note": "Recommended fast of Muharram (9–10 or 10–11) per sunnah guidance." },
+  { "key": "mawlid-note", "hijriMonth": 3, "hijriDay": 12, "title": "Rabi al-Awwal 12 (birth date cited by many)", "note": "Scholars differ on celebration formats; increase salawat and learn sirah with adab." }
+]

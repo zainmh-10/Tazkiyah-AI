@@ -1,0 +1,794 @@
+[
+  {
+    "order": 1,
+    "arabic": "الرَّحْمَٰنُ",
+    "transliteration": "Ar-Rahman",
+    "meaning": "The Most Gracious / All-Beneficent",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Most Gracious in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّحْمَٰنُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Rahman)."
+  },
+  {
+    "order": 2,
+    "arabic": "الرَّحِيمُ",
+    "transliteration": "Ar-Rahim",
+    "meaning": "The Most Merciful",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Most Merciful in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّحِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Rahim)."
+  },
+  {
+    "order": 3,
+    "arabic": "الْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "meaning": "The Sovereign Lord",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Sovereign Lord in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمَلِكُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Malik)."
+  },
+  {
+    "order": 4,
+    "arabic": "الْقُدُّوسُ",
+    "transliteration": "Al-Quddus",
+    "meaning": "The Absolutely Pure",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Absolutely Pure in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقُدُّوسُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Quddus)."
+  },
+  {
+    "order": 5,
+    "arabic": "السَّلَامُ",
+    "transliteration": "As-Salam",
+    "meaning": "The Source of Peace",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Source of Peace in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا السَّلَامُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (As-Salam)."
+  },
+  {
+    "order": 6,
+    "arabic": "الْمُؤْمِنُ",
+    "transliteration": "Al-Mu'min",
+    "meaning": "The Giver of Security",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Giver of Security in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُؤْمِنُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mu'min)."
+  },
+  {
+    "order": 7,
+    "arabic": "الْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "meaning": "The Guardian / Overseer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Guardian in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُهَيْمِنُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muhaymin)."
+  },
+  {
+    "order": 8,
+    "arabic": "الْعَزِيزُ",
+    "transliteration": "Al-Aziz",
+    "meaning": "The Almighty",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Almighty in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَزِيزُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Aziz)."
+  },
+  {
+    "order": 9,
+    "arabic": "الْجَبَّارُ",
+    "transliteration": "Al-Jabbar",
+    "meaning": "The Compeller / Restorer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Compeller in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْجَبَّارُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Jabbar)."
+  },
+  {
+    "order": 10,
+    "arabic": "الْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "meaning": "The Supreme",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Supreme in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُتَكَبِّرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mutakabbir)."
+  },
+  {
+    "order": 11,
+    "arabic": "الْخَالِقُ",
+    "transliteration": "Al-Khaliq",
+    "meaning": "The Creator",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Creator in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْخَالِقُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Khaliq)."
+  },
+  {
+    "order": 12,
+    "arabic": "الْبَارِئُ",
+    "transliteration": "Al-Bari",
+    "meaning": "The Maker / Evolver",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Maker in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَارِئُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Bari)."
+  },
+  {
+    "order": 13,
+    "arabic": "الْمُصَوِّرُ",
+    "transliteration": "Al-Musawwir",
+    "meaning": "The Fashioner",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Fashioner in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُصَوِّرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Musawwir)."
+  },
+  {
+    "order": 14,
+    "arabic": "الْغَفَّارُ",
+    "transliteration": "Al-Ghaffar",
+    "meaning": "The Great Forgiver",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Great Forgiver in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْغَفَّارُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Ghaffar)."
+  },
+  {
+    "order": 15,
+    "arabic": "الْقَهَّارُ",
+    "transliteration": "Al-Qahhar",
+    "meaning": "The Subduer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Subduer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقَهَّارُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Qahhar)."
+  },
+  {
+    "order": 16,
+    "arabic": "الْوَهَّابُ",
+    "transliteration": "Al-Wahhab",
+    "meaning": "The Bestower",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Bestower in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَهَّابُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wahhab)."
+  },
+  {
+    "order": 17,
+    "arabic": "الرَّزَّاقُ",
+    "transliteration": "Ar-Razzaq",
+    "meaning": "The Provider",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Provider in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّزَّاقُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Razzaq)."
+  },
+  {
+    "order": 18,
+    "arabic": "الْفَتَّاحُ",
+    "transliteration": "Al-Fattah",
+    "meaning": "The Opener",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Opener in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْفَتَّاحُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Fattah)."
+  },
+  {
+    "order": 19,
+    "arabic": "الْعَلِيمُ",
+    "transliteration": "Al-Alim",
+    "meaning": "The All-Knowing",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Knowing in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَلِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Alim)."
+  },
+  {
+    "order": 20,
+    "arabic": "الْقَابِضُ",
+    "transliteration": "Al-Qabid",
+    "meaning": "The Withholder",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Withholder in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقَابِضُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Qabid)."
+  },
+  {
+    "order": 21,
+    "arabic": "الْبَاسِطُ",
+    "transliteration": "Al-Basit",
+    "meaning": "The Expander",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Expander in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَاسِطُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Basit)."
+  },
+  {
+    "order": 22,
+    "arabic": "الْخَافِضُ",
+    "transliteration": "Al-Khafid",
+    "meaning": "The Abaser",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Abaser in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْخَافِضُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Khafid)."
+  },
+  {
+    "order": 23,
+    "arabic": "الرَّافِعُ",
+    "transliteration": "Ar-Rafi",
+    "meaning": "The Exalter",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Exalter in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّافِعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Rafi)."
+  },
+  {
+    "order": 24,
+    "arabic": "الْمُعِزُّ",
+    "transliteration": "Al-Muizz",
+    "meaning": "The Honorer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Honorer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُعِزُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muizz)."
+  },
+  {
+    "order": 25,
+    "arabic": "الْمُذِلُّ",
+    "transliteration": "Al-Mudhill",
+    "meaning": "The Humiliator",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Humiliator in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُذِلُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mudhill)."
+  },
+  {
+    "order": 26,
+    "arabic": "السَّمِيعُ",
+    "transliteration": "As-Sami",
+    "meaning": "The All-Hearing",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Hearing in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا السَّمِيعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (As-Sami)."
+  },
+  {
+    "order": 27,
+    "arabic": "الْبَصِيرُ",
+    "transliteration": "Al-Basir",
+    "meaning": "The All-Seeing",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Seeing in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَصِيرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Basir)."
+  },
+  {
+    "order": 28,
+    "arabic": "الْحَكَمُ",
+    "transliteration": "Al-Hakam",
+    "meaning": "The Judge",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Judge in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَكَمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hakam)."
+  },
+  {
+    "order": 29,
+    "arabic": "الْعَدْلُ",
+    "transliteration": "Al-Adl",
+    "meaning": "The Utterly Just",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Utterly Just in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَدْلُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Adl)."
+  },
+  {
+    "order": 30,
+    "arabic": "اللَّطِيفُ",
+    "transliteration": "Al-Latif",
+    "meaning": "The Subtle / Kind",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Subtle in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا اللَّطِيفُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Latif)."
+  },
+  {
+    "order": 31,
+    "arabic": "الْخَبِيرُ",
+    "transliteration": "Al-Khabir",
+    "meaning": "The All-Aware",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Aware in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْخَبِيرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Khabir)."
+  },
+  {
+    "order": 32,
+    "arabic": "الْحَلِيمُ",
+    "transliteration": "Al-Halim",
+    "meaning": "The Forbearing",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Forbearing in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَلِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Halim)."
+  },
+  {
+    "order": 33,
+    "arabic": "الْعَظِيمُ",
+    "transliteration": "Al-Azim",
+    "meaning": "The Magnificent",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Magnificent in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَظِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Azim)."
+  },
+  {
+    "order": 34,
+    "arabic": "الْغَفُورُ",
+    "transliteration": "Al-Ghafur",
+    "meaning": "The All-Forgiving",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Forgiving in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْغَفُورُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Ghafur)."
+  },
+  {
+    "order": 35,
+    "arabic": "الشَّكُورُ",
+    "transliteration": "Ash-Shakur",
+    "meaning": "The Most Appreciative",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Most Appreciative in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الشَّكُورُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ash-Shakur)."
+  },
+  {
+    "order": 36,
+    "arabic": "الْعَلِيُّ",
+    "transliteration": "Al-Ali",
+    "meaning": "The Most High",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Most High in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَلِيُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Ali)."
+  },
+  {
+    "order": 37,
+    "arabic": "الْكَبِيرُ",
+    "transliteration": "Al-Kabir",
+    "meaning": "The Greatest",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Greatest in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْكَبِيرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Kabir)."
+  },
+  {
+    "order": 38,
+    "arabic": "الْحَفِيظُ",
+    "transliteration": "Al-Hafiz",
+    "meaning": "The Preserver",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Preserver in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَفِيظُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hafiz)."
+  },
+  {
+    "order": 39,
+    "arabic": "الْمُقِيتُ",
+    "transliteration": "Al-Muqit",
+    "meaning": "The Sustainer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Sustainer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُقِيتُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muqit)."
+  },
+  {
+    "order": 40,
+    "arabic": "الْحَسِيبُ",
+    "transliteration": "Al-Hasib",
+    "meaning": "The Reckoner",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Reckoner in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَسِيبُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hasib)."
+  },
+  {
+    "order": 41,
+    "arabic": "الْجَلِيلُ",
+    "transliteration": "Al-Jalil",
+    "meaning": "The Majestic",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Majestic in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْجَلِيلُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Jalil)."
+  },
+  {
+    "order": 42,
+    "arabic": "الْكَرِيمُ",
+    "transliteration": "Al-Karim",
+    "meaning": "The Generous",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Generous in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْكَرِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Karim)."
+  },
+  {
+    "order": 43,
+    "arabic": "الرَّقِيبُ",
+    "transliteration": "Ar-Raqib",
+    "meaning": "The Watchful",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Watchful in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّقِيبُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Raqib)."
+  },
+  {
+    "order": 44,
+    "arabic": "الْمُجِيبُ",
+    "transliteration": "Al-Mujib",
+    "meaning": "The Responsive",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Responsive in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُجِيبُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mujib)."
+  },
+  {
+    "order": 45,
+    "arabic": "الْوَاسِعُ",
+    "transliteration": "Al-Wasi",
+    "meaning": "The All-Encompassing",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The All-Encompassing in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَاسِعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wasi)."
+  },
+  {
+    "order": 46,
+    "arabic": "الْحَكِيمُ",
+    "transliteration": "Al-Hakim",
+    "meaning": "The Wise",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Wise in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَكِيمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hakim)."
+  },
+  {
+    "order": 47,
+    "arabic": "الْوَدُودُ",
+    "transliteration": "Al-Wadud",
+    "meaning": "The Loving",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Loving in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَدُودُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wadud)."
+  },
+  {
+    "order": 48,
+    "arabic": "الْمَجِيدُ",
+    "transliteration": "Al-Majid",
+    "meaning": "The Glorious",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Glorious in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمَجِيدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Majid)."
+  },
+  {
+    "order": 49,
+    "arabic": "الْبَاعِثُ",
+    "transliteration": "Al-Baith",
+    "meaning": "The Resurrector",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Resurrector in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَاعِثُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Baith)."
+  },
+  {
+    "order": 50,
+    "arabic": "الشَّهِيدُ",
+    "transliteration": "Ash-Shahid",
+    "meaning": "The Witness",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Witness in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الشَّهِيدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ash-Shahid)."
+  },
+  {
+    "order": 51,
+    "arabic": "الْحَقُّ",
+    "transliteration": "Al-Haqq",
+    "meaning": "The Truth",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Truth in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَقُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Haqq)."
+  },
+  {
+    "order": 52,
+    "arabic": "الْوَكِيلُ",
+    "transliteration": "Al-Wakil",
+    "meaning": "The Trustee",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Trustee in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَكِيلُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wakil)."
+  },
+  {
+    "order": 53,
+    "arabic": "الْقَوِيُّ",
+    "transliteration": "Al-Qawi",
+    "meaning": "The Strong",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Strong in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقَوِيُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Qawi)."
+  },
+  {
+    "order": 54,
+    "arabic": "الْمَتِينُ",
+    "transliteration": "Al-Matin",
+    "meaning": "The Firm",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Firm in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمَتِينُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Matin)."
+  },
+  {
+    "order": 55,
+    "arabic": "الْوَلِيُّ",
+    "transliteration": "Al-Wali",
+    "meaning": "The Protecting Friend",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Protecting Friend in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَلِيُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wali)."
+  },
+  {
+    "order": 56,
+    "arabic": "الْحَمِيدُ",
+    "transliteration": "Al-Hamid",
+    "meaning": "The Praiseworthy",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Praiseworthy in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَمِيدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hamid)."
+  },
+  {
+    "order": 57,
+    "arabic": "الْمُحْصِي",
+    "transliteration": "Al-Muhsi",
+    "meaning": "The Accounter",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Accounter in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُحْصِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muhsi)."
+  },
+  {
+    "order": 58,
+    "arabic": "الْمُبْدِئُ",
+    "transliteration": "Al-Mubdi",
+    "meaning": "The Originator",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Originator in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُبْدِئُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mubdi)."
+  },
+  {
+    "order": 59,
+    "arabic": "الْمُعِيدُ",
+    "transliteration": "Al-Muid",
+    "meaning": "The Restorer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Restorer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُعِيدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muid)."
+  },
+  {
+    "order": 60,
+    "arabic": "الْمُحْيِي",
+    "transliteration": "Al-Muhyi",
+    "meaning": "The Giver of Life",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Giver of Life in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُحْيِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muhyi)."
+  },
+  {
+    "order": 61,
+    "arabic": "الْمُمِيتُ",
+    "transliteration": "Al-Mumit",
+    "meaning": "The Taker of Life",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Taker of Life in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُمِيتُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mumit)."
+  },
+  {
+    "order": 62,
+    "arabic": "الْحَيُّ",
+    "transliteration": "Al-Hayy",
+    "meaning": "The Ever-Living",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Ever-Living in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْحَيُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hayy)."
+  },
+  {
+    "order": 63,
+    "arabic": "الْقَيُّومُ",
+    "transliteration": "Al-Qayyum",
+    "meaning": "The Self-Sustaining",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Self-Sustaining in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقَيُّومُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Qayyum)."
+  },
+  {
+    "order": 64,
+    "arabic": "الْوَاجِدُ",
+    "transliteration": "Al-Wajid",
+    "meaning": "The Finder / Rich",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Finder in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَاجِدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wajid)."
+  },
+  {
+    "order": 65,
+    "arabic": "الْمَاجِدُ",
+    "transliteration": "Al-Majid",
+    "meaning": "The Noble / Glorious",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Noble in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمَاجِدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Majid)."
+  },
+  {
+    "order": 66,
+    "arabic": "الْوَاحِدُ",
+    "transliteration": "Al-Wahid",
+    "meaning": "The One",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The One in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَاحِدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wahid)."
+  },
+  {
+    "order": 67,
+    "arabic": "الْأَحَدُ",
+    "transliteration": "Al-Ahad",
+    "meaning": "The Unique",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Unique in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْأَحَدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Ahad)."
+  },
+  {
+    "order": 68,
+    "arabic": "الصَّمَدُ",
+    "transliteration": "As-Samad",
+    "meaning": "The Eternal Refuge",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Eternal Refuge in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الصَّمَدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (As-Samad)."
+  },
+  {
+    "order": 69,
+    "arabic": "الْقَادِرُ",
+    "transliteration": "Al-Qadir",
+    "meaning": "The Capable",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Capable in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْقَادِرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Qadir)."
+  },
+  {
+    "order": 70,
+    "arabic": "الْمُقْتَدِرُ",
+    "transliteration": "Al-Muqtadir",
+    "meaning": "The Omnipotent",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Omnipotent in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُقْتَدِرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muqtadir)."
+  },
+  {
+    "order": 71,
+    "arabic": "الْمُقَدِّمُ",
+    "transliteration": "Al-Muqaddim",
+    "meaning": "The Advancer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Advancer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُقَدِّمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muqaddim)."
+  },
+  {
+    "order": 72,
+    "arabic": "الْمُؤَخِّرُ",
+    "transliteration": "Al-Muakhkhir",
+    "meaning": "The Delayer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Delayer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُؤَخِّرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muakhkhir)."
+  },
+  {
+    "order": 73,
+    "arabic": "الْأَوَّلُ",
+    "transliteration": "Al-Awwal",
+    "meaning": "The First",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The First in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْأَوَّلُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Awwal)."
+  },
+  {
+    "order": 74,
+    "arabic": "الْآخِرُ",
+    "transliteration": "Al-Akhir",
+    "meaning": "The Last",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Last in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْآخِرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Akhir)."
+  },
+  {
+    "order": 75,
+    "arabic": "الظَّاهِرُ",
+    "transliteration": "Az-Zahir",
+    "meaning": "The Manifest",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Manifest in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الظَّاهِرُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Az-Zahir)."
+  },
+  {
+    "order": 76,
+    "arabic": "الْبَاطِنُ",
+    "transliteration": "Al-Batin",
+    "meaning": "The Hidden",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Hidden in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَاطِنُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Batin)."
+  },
+  {
+    "order": 77,
+    "arabic": "الْوَالِي",
+    "transliteration": "Al-Wali",
+    "meaning": "The Governor",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Governor in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَالِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Wali)."
+  },
+  {
+    "order": 78,
+    "arabic": "الْمُتَعَالِي",
+    "transliteration": "Al-Mutaali",
+    "meaning": "The Exalted",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Exalted in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُتَعَالِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mutaali)."
+  },
+  {
+    "order": 79,
+    "arabic": "الْبَرُّ",
+    "transliteration": "Al-Barr",
+    "meaning": "The Source of Goodness",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Source of Goodness in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَرُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Barr)."
+  },
+  {
+    "order": 80,
+    "arabic": "التَّوَّابُ",
+    "transliteration": "At-Tawwab",
+    "meaning": "The Accepter of Repentance",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Accepter of Repentance in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا التَّوَّابُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (At-Tawwab)."
+  },
+  {
+    "order": 81,
+    "arabic": "الْمُنْتَقِمُ",
+    "transliteration": "Al-Muntaqim",
+    "meaning": "The Avenger",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Avenger in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُنْتَقِمُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muntaqim)."
+  },
+  {
+    "order": 82,
+    "arabic": "الْعَفُوُّ",
+    "transliteration": "Al-Afu",
+    "meaning": "The Pardoner",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Pardoner in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْعَفُوُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Afu)."
+  },
+  {
+    "order": 83,
+    "arabic": "الرَّءُوفُ",
+    "transliteration": "Ar-Rauf",
+    "meaning": "The Kind",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Kind in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّءُوفُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Rauf)."
+  },
+  {
+    "order": 84,
+    "arabic": "مَالِكُ الْمُلْكِ",
+    "transliteration": "Malik al-Mulk",
+    "meaning": "Owner of Sovereignty",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as Owner of Sovereignty in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا مَالِكُ الْمُلْكِ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Malik al-Mulk)."
+  },
+  {
+    "order": 85,
+    "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "meaning": "Lord of Majesty and Bounty",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as Lord of Majesty and Bounty in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا ذُو الْجَلَالِ وَالْإِكْرَامِ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Dhul-Jalali wal-Ikram)."
+  },
+  {
+    "order": 86,
+    "arabic": "الْمُقْسِطُ",
+    "transliteration": "Al-Muqsit",
+    "meaning": "The Equitable",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Equitable in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُقْسِطُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Muqsit)."
+  },
+  {
+    "order": 87,
+    "arabic": "الْجَامِعُ",
+    "transliteration": "Al-Jami",
+    "meaning": "The Gatherer",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Gatherer in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْجَامِعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Jami)."
+  },
+  {
+    "order": 88,
+    "arabic": "الْغَنِيُّ",
+    "transliteration": "Al-Ghani",
+    "meaning": "The Self-Sufficient",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Self-Sufficient in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْغَنِيُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Ghani)."
+  },
+  {
+    "order": 89,
+    "arabic": "الْمُغْنِي",
+    "transliteration": "Al-Mughni",
+    "meaning": "The Enricher",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Enricher in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمُغْنِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mughni)."
+  },
+  {
+    "order": 90,
+    "arabic": "الْمَانِعُ",
+    "transliteration": "Al-Mani",
+    "meaning": "The Withholder",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Withholder in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْمَانِعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Mani)."
+  },
+  {
+    "order": 91,
+    "arabic": "الضَّارُّ",
+    "transliteration": "Ad-Darr",
+    "meaning": "The Bringer of Harm (as He wills)",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Bringer of Harm (as He wills) in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الضَّارُّ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ad-Darr)."
+  },
+  {
+    "order": 92,
+    "arabic": "النَّافِعُ",
+    "transliteration": "An-Nafi",
+    "meaning": "The Bringer of Benefit",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Bringer of Benefit in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا النَّافِعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (An-Nafi)."
+  },
+  {
+    "order": 93,
+    "arabic": "النُّورُ",
+    "transliteration": "An-Nur",
+    "meaning": "The Light",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Light in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا النُّورُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (An-Nur)."
+  },
+  {
+    "order": 94,
+    "arabic": "الْهَادِي",
+    "transliteration": "Al-Hadi",
+    "meaning": "The Guide",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Guide in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْهَادِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Hadi)."
+  },
+  {
+    "order": 95,
+    "arabic": "الْبَدِيعُ",
+    "transliteration": "Al-Badi",
+    "meaning": "The Originator / Incomparable",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Originator in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَدِيعُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Badi)."
+  },
+  {
+    "order": 96,
+    "arabic": "الْبَاقِي",
+    "transliteration": "Al-Baqi",
+    "meaning": "The Everlasting",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Everlasting in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْبَاقِي، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Baqi)."
+  },
+  {
+    "order": 97,
+    "arabic": "الْوَارِثُ",
+    "transliteration": "Al-Warith",
+    "meaning": "The Inheritor",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Inheritor in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الْوَارِثُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Al-Warith)."
+  },
+  {
+    "order": 98,
+    "arabic": "الرَّشِيدُ",
+    "transliteration": "Ar-Rashid",
+    "meaning": "The Guide to the Right Path",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Guide to the Right Path in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الرَّشِيدُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (Ar-Rashid)."
+  },
+  {
+    "order": 99,
+    "arabic": "الصَّبُورُ",
+    "transliteration": "As-Sabur",
+    "meaning": "The Patient",
+    "reflection": "Sit quietly for a moment and ask: where do I recognize Allah as The Patient in my life today?",
+    "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى، يَا الصَّبُورُ، ارْحَمْنِي وَاهْدِنِي وَعَافِنِي (As-Sabur)."
+  }
+]

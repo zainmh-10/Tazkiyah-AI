@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "ikhfa",
+    "title": "Ikhfa (Hiding)",
+    "category": "Noon Sakinah & Tanween",
+    "explanation": "When noon saakinah (نْ) or tanween is followed by one of fifteen letters, the noon sound is hidden — pronounced with a light nasal sound (ghunnah) between a clear noon and full merging, held for about two counts.",
+    "detail": "The fifteen letters of Ikhfa are: ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك. The tongue does not touch the upper gum ridge as it would for a full noon; instead the sound resonates through the nose while the mouth is shaped for the coming letter.",
+    "letters": ["ت", "ث", "ج", "د", "ذ", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ف", "ق", "ك"],
+    "examples": [
+      { "arabic": "مِن كُتُبٍ", "note": "noon saakinah followed by ك" },
+      { "arabic": "أَنذِرْ", "note": "noon saakinah followed by ذ" },
+      { "arabic": "مَنصُورًا", "note": "noon saakinah followed by ص" }
+    ],
+    "exampleArabic": "مِن كُتُبٍ"
+  },
+  {
+    "slug": "idgham",
+    "title": "Idgham (Merging)",
+    "category": "Noon Sakinah & Tanween",
+    "explanation": "When noon saakinah or tanween meets one of six letters (ي ر م ل و ن), the noon merges into the following letter. With ghunnah for ي ن م و, without ghunnah for ل ر.",
+    "detail": "Idgham is not applied when noon sakinah and its following letter appear in the same word — in that case noon is pronounced clearly (izhar mutlaq), as in دُنْيَا, قِنْوَانٌ, صِنْوَانٌ, بُنْيَانٌ.",
+    "letters": ["ي", "ر", "م", "ل", "و", "ن"],
+    "examples": [
+      { "arabic": "مِن رَّبِّهِمْ", "note": "idgham without ghunnah into ر" },
+      { "arabic": "مَن يَقُولُ", "note": "idgham with ghunnah into ي" },
+      { "arabic": "مِن مَّالٍ", "note": "idgham with ghunnah into م" }
+    ],
+    "exampleArabic": "مِن رَّبِّهِمْ"
+  },
+  {
+    "slug": "iqlab",
+    "title": "Iqlab (Conversion)",
+    "category": "Noon Sakinah & Tanween",
+    "explanation": "When noon saakinah or tanween is followed by the letter baa (ب), the noon sound is converted into a concealed meem sound accompanied by ghunnah.",
+    "detail": "In the mushaf this is often marked with a small م above the noon. The lips close softly but do not fully press, producing a nasal meem held for two counts.",
+    "letters": ["ب"],
+    "examples": [
+      { "arabic": "مِن بَعْدِ", "note": "noon becomes meem before ب" },
+      { "arabic": "سَمِيعًۢا بَصِيرًا", "note": "tanween becomes meem before ب" }
+    ],
+    "exampleArabic": "مِن بَعْدِ"
+  },
+  {
+    "slug": "izhar",
+    "title": "Izhar (Clarity)",
+    "category": "Noon Sakinah & Tanween",
+    "explanation": "When noon saakinah or tanween is followed by one of the six throat letters (ء ه ع ح غ خ), the noon is pronounced clearly — no hiding, no merging, no ghunnah beyond its natural length.",
+    "detail": "These are called the huroof al-halq (throat letters) because their articulation point is the throat. The noon stays crisp and distinct before them.",
+    "letters": ["ء", "ه", "ع", "ح", "غ", "خ"],
+    "examples": [
+      { "arabic": "مِنْ هَادٍ", "note": "noon saakinah before ه" },
+      { "arabic": "يَنْهَوْنَ", "note": "within a word" },
+      { "arabic": "مِنْ عِلْمٍ", "note": "noon saakinah before ع" }
+    ],
+    "exampleArabic": "مِنْ هَادٍ"
+  },
+  {
+    "slug": "ghunnah",
+    "title": "Ghunnah (Nasalization)",
+    "category": "Meem & Noon with Shaddah",
+    "explanation": "A nasal sound held for approximately two counts on any meem (مّ) or noon (نّ) with shaddah.",
+    "detail": "The sound resonates through the nasal passage, not the mouth. You can feel the vibration by lightly touching the nose while reciting إِنَّ or ثُمَّ.",
+    "letters": ["مّ", "نّ"],
+    "examples": [
+      { "arabic": "إِنَّ", "note": "noon with shaddah" },
+      { "arabic": "ثُمَّ", "note": "meem with shaddah" },
+      { "arabic": "جَنَّاتٍ", "note": "noon with shaddah mid-word" }
+    ],
+    "exampleArabic": "إِنَّ اللَّهَ"
+  },
+  {
+    "slug": "qalqalah",
+    "title": "Qalqalah (Echoing)",
+    "category": "Special Sounds",
+    "explanation": "A slight bouncing echo produced on the letters ق ط ب ج د when they carry a sukoon — whether originally or due to stopping.",
+    "detail": "The letters are remembered by the phrase قُطْبُ جَدٍّ. Qalqalah sughra (minor) is in the middle of a word; qalqalah kubra (major) is when we stop on a qalqalah letter at the end of a word, and the echo is stronger.",
+    "letters": ["ق", "ط", "ب", "ج", "د"],
+    "examples": [
+      { "arabic": "يَقْبِضُ", "note": "sughra — ق sakinah mid-word" },
+      { "arabic": "أَحَدْ", "note": "kubra — stopping on د" },
+      { "arabic": "الْفَلَقْ", "note": "kubra on ق when stopping" }
+    ],
+    "exampleArabic": "قُلْ هُوَ اللَّهُ أَحَدْ"
+  },
+  {
+    "slug": "madd",
+    "title": "Madd (Elongation)",
+    "category": "Madd Rules",
+    "explanation": "Stretching a vowel sound across two counts (natural madd) or longer (derived madd) when one of the three madd letters (ا و ي) follows a matching vowel.",
+    "detail": "Natural Madd (Madd Tabee'i) = 2 counts. Derived Madds include Madd Muttasil (4-5 counts, hamzah after madd letter in same word), Madd Munfasil (4-5 counts, hamzah in next word), and Madd Lazim (6 counts, obligatory due to shaddah or sukoon).",
+    "letters": ["ا", "و", "ي"],
+    "examples": [
+      { "arabic": "قَالَ", "note": "natural madd — 2 counts" },
+      { "arabic": "جَآءَ", "note": "madd muttasil — 4-5 counts" },
+      { "arabic": "الطَّآمَّةُ", "note": "madd lazim — 6 counts" }
+    ],
+    "exampleArabic": "قَالَ رَبُّكَ"
+  },
+  {
+    "slug": "meem-sakinah",
+    "title": "Meem Sakinah",
+    "category": "Meem & Noon with Shaddah",
+    "explanation": "Three rules govern meem saakinah (مْ): ikhfa shafawi before ب, idgham shafawi before م, and izhar shafawi before all other letters.",
+    "detail": "Ikhfa Shafawi — when meem sakinah meets ب, the lips lightly close and ghunnah is held. Idgham Shafawi — when meem sakinah meets another meem, they merge with ghunnah. Izhar Shafawi — all other letters; the meem is pronounced crisply, especially taking care before و and ف (which share the lips).",
+    "letters": ["ب", "م", "all others"],
+    "examples": [
+      { "arabic": "تَرْمِيهِم بِحِجَارَةٍ", "note": "ikhfa shafawi — meem before ب" },
+      { "arabic": "لَهُم مَّا", "note": "idgham shafawi — meem into meem" },
+      { "arabic": "أَمْ لَمْ", "note": "izhar shafawi — meem before ل" }
+    ],
+    "exampleArabic": "لَهُم مَّا يَشَاءُونَ"
+  },
+  {
+    "slug": "laam-shamsiyyah-qamariyyah",
+    "title": "Laam Shamsiyyah & Qamariyyah",
+    "category": "The Definite Article",
+    "explanation": "The laam in the definite article ال is either silent and merged (shamsiyyah / 'solar') or pronounced clearly (qamariyyah / 'lunar'), depending on the following letter.",
+    "detail": "14 shamsi letters (ت ث د ذ ر ز س ش ص ض ط ظ ل ن) cause the laam to be silent and the next letter doubled: الشَّمْس. 14 qamari letters (ا ب ج ح خ ع غ ف ق ك م و ه ي) allow the laam to be pronounced: الْقَمَر.",
+    "letters": ["ت","ث","د","ذ","ر","ز","س","ش","ص","ض","ط","ظ","ل","ن"],
+    "examples": [
+      { "arabic": "الشَّمْسُ", "note": "shamsiyyah — laam silent" },
+      { "arabic": "الْقَمَرُ", "note": "qamariyyah — laam clear" },
+      { "arabic": "الرَّحْمَٰنِ", "note": "shamsiyyah — laam silent before ر" }
+    ],
+    "exampleArabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+  },
+  {
+    "slug": "tafkheem-tarqeeq",
+    "title": "Tafkheem & Tarqeeq (Heavy & Light)",
+    "category": "Articulation",
+    "explanation": "Some letters are always heavy (tafkheem), some always light (tarqeeq), and some change based on vowels.",
+    "detail": "Always heavy: خ ص ض ط ظ غ ق. Always light: all others except ر and ل (in the name of Allah). ر is heavy with fatha/damma, light with kasra. The laam in الله is heavy after fatha/damma, light after kasra.",
+    "letters": ["خ","ص","ض","ط","ظ","غ","ق"],
+    "examples": [
+      { "arabic": "صَرَاطَ", "note": "heavy letters ص, ط" },
+      { "arabic": "رَحْمَة", "note": "ر with fatha — heavy" },
+      { "arabic": "رِزْق", "note": "ر with kasra — light" }
+    ],
+    "exampleArabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
+  },
+  {
+    "slug": "waqf",
+    "title": "Waqf (Rules of Stopping)",
+    "category": "Stopping & Starting",
+    "explanation": "When stopping at the end of a word, the last letter is made saakin. Tanween becomes a single fatha, and taa marbuta becomes haa sakinah.",
+    "detail": "Mushaf symbols guide stopping: مـ (must stop), لا (do not stop), ج (permissible), صلى (continuing is better), قلى (stopping is better). Stopping mid-ayah is allowed if the meaning is complete; stopping where meaning is incomplete should be avoided.",
+    "letters": [],
+    "examples": [
+      { "arabic": "عَلِيمٌ → عَلِيمْ", "note": "tanween becomes saakin on stop" },
+      { "arabic": "رَحْمَةٌ → رَحْمَهْ", "note": "taa marbuta becomes haa" }
+    ],
+    "exampleArabic": "مَالِكِ يَوْمِ الدِّينِ"
+  }
+]
